@@ -2,11 +2,11 @@
 List of free and paid alternatives to Cloudflare services. Please contribute by suggesting services in the issues.
 
 ## Table of contents
-    - [Cloudflare Pages](#cloudflare-pages)
-    - [Cloudflare Workers](#cloudflare-workers)
-    - [Cloudflare Workers KV](#cloudflare-workers-kv)
-    - [Cloudflare Zero Trust](#cloudflare-zero-trust)
-    - [Cloudflare Stream](#cloudflare-stream)
+ - [Cloudflare Pages](#cloudflare-pages)
+ - [Cloudflare Workers](#cloudflare-workers)
+ - [Cloudflare Workers KV](#cloudflare-workers-kv)
+ - [Cloudflare Zero Trust](#cloudflare-zero-trust)
+ - [Cloudflare Stream](#cloudflare-stream)
 ### Cloudflare Pages
  - [GitHub Pages](https://pages.github.com/) - Free for public repos.
  - [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/) - Free for public repos. (possibly private ones as well)
